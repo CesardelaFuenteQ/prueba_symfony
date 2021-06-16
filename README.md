@@ -1,10 +1,9 @@
-gallery
-=======
+gallery _ Prueba Symfony
+==========================
 
-A Symfony project created on September 24, 2018, 06:15 pm.
+A Symfony project created on 15/06/2021.
+Cesar de la Fuente Q.
 
-Requerimientos:
-* GD Library and Imagick
 
 Funcionalidades:
 * Carga masiva de imágenes mediante url a archivo csv.
